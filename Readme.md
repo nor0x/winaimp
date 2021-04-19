@@ -4,7 +4,10 @@
 this is a playground repo where i'm experimenting with generative adversarial networks (GANs),  [SciSharp](https://scisharp.github.io/SciSharp) and the [Winamp Skin Collection](https://archive.org/details/winampskins) and 
 
 ### first tests
-> need a gpu upgrade for better training
+![](https://raw.githubusercontent.com/nor0x/winaimp/master/art/IMG_186143416846.png)
+> these are outputs from early epochs (1-30)
+
+> still need a gpu upgrade for better training
 
 
 ### tools
