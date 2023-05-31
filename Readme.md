@@ -1,7 +1,7 @@
 # winaimp ⚡
 > an ai that generates winamp skins
 
-this is a playground repo where i'm experimenting with generative adversarial networks (GANs),  [SciSharp](https://scisharp.github.io/SciSharp) and the [Winamp Skin Collection](https://archive.org/details/winampskins) and 
+this is a playground repo where i'm experimenting with generative adversarial networks (GANs),  [SciSharp](https://scisharp.github.io/SciSharp) and the [Winamp Skin Collection](https://archive.org/details/winampskins) 
 
 ### first tests
 ![](https://raw.githubusercontent.com/nor0x/winaimp/master/art/IMG_186143416846.png)
